@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d39JS45dhf0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\materialdesigncolors\\5.3.0\\materialdesigncolors.5.3.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\materialdesignthemes\\5.3.0\\materialdesignthemes.5.3.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}

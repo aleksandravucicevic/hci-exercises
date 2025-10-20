@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B03323-D228-42E3-9230-E2ADDBE61AB0}|01_LoginWindow_WPF\\01_LoginWindow_WPF.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_loginwindow_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94B03323-D228-42E3-9230-E2ADDBE61AB0}|01_LoginWindow_WPF\\01_LoginWindow_WPF.csproj|solutionrelative:01_loginwindow_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_1_loginwindow_materialdesign\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|solutionrelative:01_1_loginwindow_materialdesign\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_1_loginwindow_materialdesign\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|solutionrelative:01_1_loginwindow_materialdesign\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5BFD5D-F126-45D8-B4B2-857F2D3EC9E5}|01_2_LoginWindow_ModernWPF\\01_2_LoginWindow_ModernWPF.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_2_loginwindow_modernwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A5BFD5D-F126-45D8-B4B2-857F2D3EC9E5}|01_2_LoginWindow_ModernWPF\\01_2_LoginWindow_ModernWPF.csproj|solutionrelative:01_2_loginwindow_modernwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_1_loginwindow_materialdesign\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|solutionrelative:01_1_loginwindow_materialdesign\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_1_loginwindow_materialdesign\\01_1_loginwindow_materialdesign.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C361E017-DB43-4EE5-8003-1978026315CB}|01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj|solutionrelative:01_1_loginwindow_materialdesign\\01_1_loginwindow_materialdesign.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B03323-D228-42E3-9230-E2ADDBE61AB0}|01_LoginWindow_WPF\\01_LoginWindow_WPF.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_loginwindow_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B03323-D228-42E3-9230-E2ADDBE61AB0}|01_LoginWindow_WPF\\01_LoginWindow_WPF.csproj|solutionrelative:01_loginwindow_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5BFD5D-F126-45D8-B4B2-857F2D3EC9E5}|01_2_LoginWindow_ModernWPF\\01_2_LoginWindow_ModernWPF.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_2_loginwindow_modernwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5BFD5D-F126-45D8-B4B2-857F2D3EC9E5}|01_2_LoginWindow_ModernWPF\\01_2_LoginWindow_ModernWPF.csproj|solutionrelative:01_2_loginwindow_modernwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B03323-D228-42E3-9230-E2ADDBE61AB0}|01_LoginWindow_WPF\\01_LoginWindow_WPF.csproj|c:\\users\\korisnik\\source\\repos\\hci-exercises\\01_loginwindow_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94B03323-D228-42E3-9230-E2ADDBE61AB0}|01_LoginWindow_WPF\\01_LoginWindow_WPF.csproj|solutionrelative:01_loginwindow_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\App.xaml",
+              "RelativeDocumentMoniker": "01_1_LoginWindow_MaterialDesign\\App.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\App.xaml",
+              "RelativeToolTip": "01_1_LoginWindow_MaterialDesign\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T16:26:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01_1_LoginWindow_MaterialDesign.csproj",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj",
+              "RelativeDocumentMoniker": "01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj",
+              "RelativeToolTip": "01_1_LoginWindow_MaterialDesign\\01_1_LoginWindow_MaterialDesign.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T12:31:06.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_LoginWindow_WPF\\App.xaml",
+              "RelativeDocumentMoniker": "01_LoginWindow_WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_LoginWindow_WPF\\App.xaml",
+              "RelativeToolTip": "01_LoginWindow_WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T12:28:25.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "01_1_LoginWindow_MaterialDesign\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\MainWindow.xaml.cs",
+              "RelativeToolTip": "01_1_LoginWindow_MaterialDesign\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:06:14.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_LoginWindow_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "01_LoginWindow_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_LoginWindow_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "01_LoginWindow_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T12:05:36.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "01_1_LoginWindow_MaterialDesign\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_1_LoginWindow_MaterialDesign\\MainWindow.xaml",
+              "RelativeToolTip": "01_1_LoginWindow_MaterialDesign\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T12:06:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_LoginWindow_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "01_LoginWindow_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_LoginWindow_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "01_LoginWindow_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAxwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:05:32.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_2_LoginWindow_ModernWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "01_2_LoginWindow_ModernWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_2_LoginWindow_ModernWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "01_2_LoginWindow_ModernWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:06:47.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_2_LoginWindow_ModernWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "01_2_LoginWindow_ModernWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\hci-exercises\\01_2_LoginWindow_ModernWPF\\MainWindow.xaml",
+              "RelativeToolTip": "01_2_LoginWindow_ModernWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T12:06:47.283Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
