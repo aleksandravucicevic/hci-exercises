@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_DataBinding_ObservableCollection", "03_DataBinding_ObservableCollection\03_DataBinding_ObservableCollection.csproj", "{578D1FA4-5067-472B-BBB3-0F44C07A36DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_CountryBrowser", "04_CountryBrowser\04_CountryBrowser.csproj", "{8ED19705-EAD7-4E47-A8E6-DD8E6109E3F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{578D1FA4-5067-472B-BBB3-0F44C07A36DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{578D1FA4-5067-472B-BBB3-0F44C07A36DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{578D1FA4-5067-472B-BBB3-0F44C07A36DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED19705-EAD7-4E47-A8E6-DD8E6109E3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED19705-EAD7-4E47-A8E6-DD8E6109E3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED19705-EAD7-4E47-A8E6-DD8E6109E3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED19705-EAD7-4E47-A8E6-DD8E6109E3F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

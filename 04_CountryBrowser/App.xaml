@@ -1,0 +1,45 @@
+﻿<Application
+    x:Class="_04_CountryBrowser.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:BundledTheme
+                    BaseTheme="Light"
+                    PrimaryColor="DeepPurple"
+                    SecondaryColor="Lime" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign2.Defaults.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <!--  Reusable Dimensions  -->
+            <system:Double x:Key="SmallSpacing">5</system:Double>
+            <system:Double x:Key="MediumSpacing">10</system:Double>
+            <system:Double x:Key="LargeSpacing">15</system:Double>
+            <system:Double x:Key="ExtraLargeSpacing">20</system:Double>
+            <system:Double x:Key="IconSizeSmall">16</system:Double>
+            <system:Double x:Key="IconSizeMedium">20</system:Double>
+            <system:Double x:Key="IconSizeLarge">24</system:Double>
+            <system:Double x:Key="IconSizeExtraLarge">32</system:Double>
+            <system:Double x:Key="CardPadding">20</system:Double>
+            <system:Double x:Key="StandardPadding">15</system:Double>
+            <system:Double x:Key="SmallPadding">10</system:Double>
+            <system:Double x:Key="MinButtonWidth">100</system:Double>
+            <system:Double x:Key="StandardButtonHeight">40</system:Double>
+            <system:Double x:Key="CornerRadius">8</system:Double>
+            <!--  Reusable Thickness  -->
+            <Thickness x:Key="CardMargin">0,0,0,15</Thickness>
+            <Thickness x:Key="StandardMargin">15</Thickness>
+            <Thickness x:Key="SmallMargin">5</Thickness>
+            <Thickness x:Key="CardPaddingThickness">20</Thickness>
+            <Thickness x:Key="StandardPaddingThickness">15</Thickness>
+            <Thickness x:Key="IconMarginRight">0,0,8,0</Thickness>
+            <Thickness x:Key="IconMarginLeft">8,0,0,0</Thickness>
+            <!--  Reusable Grid Lengths  -->
+            <GridLength x:Key="AutoGridLength">Auto</GridLength>
+            <GridLength x:Key="StarGridLength">*</GridLength>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
