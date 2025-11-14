@@ -21,7 +21,7 @@ namespace _04_CountryBrowser
         {
             InitializeComponent();
 
-            /*// TEST 1: Da li ViewModel postoji?
+            // TEST 1: Da li ViewModel postoji?
             var vm = this.DataContext as CountrySearchViewModel;
             if (vm == null)
             {
@@ -53,7 +53,7 @@ namespace _04_CountryBrowser
             {
                 vm.SearchCommand.Execute(null);
                 MessageBox.Show("Command executed!");
-            }*/
+            }
         }
     }
 }

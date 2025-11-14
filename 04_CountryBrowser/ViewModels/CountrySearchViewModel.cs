@@ -48,7 +48,7 @@ namespace _04_CountryBrowser.ViewModels
         [RelayCommand(CanExecute = nameof(CanSearch))]
         private async Task Search()
         {
-            System.Diagnostics.Debug.WriteLine($"Search called with query: '{SearchQuery}'");
+            //System.Diagnostics.Debug.WriteLine($"Search called with query: '{SearchQuery}'");
 
             IsLoading = true;
             StatusMessage = "Tražim...";
